@@ -1,7 +1,7 @@
 Twitter Bootstrap RTL
 =====================
 
-Right To Left version of Twitter's Bootstrap 2.1.0 for RTL languages (Arabic, Hebrew and Persian)
+Right To Left version of Twitter's Bootstrap 2.1.1 for RTL languages (Arabic, Hebrew and Persian)
 
 Usage
 -----
